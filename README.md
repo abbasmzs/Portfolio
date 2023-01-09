@@ -4,15 +4,21 @@ Demo version of the files:
 --------------------------
 ### English CV:
 <img src="Images/CV - En.PNG">
----
-### Persian CV:
+
+
+Persian CV:
 <img src="Images/CV - Pr.PNG">
----
-### Sample of Works:
+
+
+
+Sample of Works:
 <img src="Images/wrk.PNG">
----
-### Certificates:
+
+
+Certificates:
 <img src="Images/Cer.PNG">
----
-### Radiology Enhancement:
+
+
+
+Radiology Enhancement:
 <img src="Images/LDR-TW-RAW.png">
