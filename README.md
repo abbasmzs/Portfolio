@@ -3,17 +3,21 @@
 Demo version of the files:
 --------------------------
 ### English CV:
+
 <img src="Images/CV - En.PNG">
 
 
 Sample of Works:
+
 <img src="Images/wrk.PNG">
 
 
 Certificates:
+
 <img src="Images/Cer.PNG">
 
 
 
 Radiology Enhancement:
+
 <img src="Images/LDR-TW-RAW.png">
