@@ -6,11 +6,6 @@ Demo version of the files:
 <img src="Images/CV - En.PNG">
 
 
-Persian CV:
-<img src="Images/CV - Pr.PNG">
-
-
-
 Sample of Works:
 <img src="Images/wrk.PNG">
 
